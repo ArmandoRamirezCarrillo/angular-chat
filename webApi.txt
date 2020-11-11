@@ -1,0 +1,20 @@
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/8.0.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAwrCx7-MMK8Z8s2dq7HUf0vFyyxOS8cwQ",
+    authDomain: "angularchat-ae7cb.firebaseapp.com",
+    databaseURL: "https://angularchat-ae7cb.firebaseio.com",
+    projectId: "angularchat-ae7cb",
+    storageBucket: "angularchat-ae7cb.appspot.com",
+    messagingSenderId: "248861266982",
+    appId: "1:248861266982:web:97273033fed4998eb2c2e7"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+</script>
